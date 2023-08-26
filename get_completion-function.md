@@ -1,4 +1,5 @@
-- Certainly! The provided code defines a Python function get_completion that utilizes the OpenAI API to generate text completions based on a given prompt. Here's a breakdown of how the function works:
+# Explanation
+ Certainly! The provided code defines a Python function get_completion that utilizes the OpenAI API to generate text completions based on a given prompt. Here's a breakdown of how the function works:
 
 ## Function Definition:
 
